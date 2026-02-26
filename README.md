@@ -20,8 +20,11 @@ También se puede usar con Visual Studio Code, que permite tener los archivos de
 
 El código se debe plasmar en el siguiente orden:
 1.	Celda 1(Definición): Aquí se pega la Clase (el molde). Si cambias algo en la clase debes volver a ejecutar esta celda
-2.	Celda 2 (Instanciación): Aquí se crean los Objetos (Ej. luis = Persona(“Luis”))
-3.	Celda 3 (Interacción): Aquí se usan los Métodos (ej. Luis.saludar())
+   
+3.	Celda 2 (Instanciación): Aquí se crean los Objetos (Ej. luis = Persona(“Luis”))
+   
+5.	Celda 3 (Interacción): Aquí se usan los Métodos (ej. Luis.saludar())
+   
 
 # 1. Palabra clave "class" seguida del nombre (en Mayúscula")
 class Vehiculo:
